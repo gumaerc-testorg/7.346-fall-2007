@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 242e8c32-52b7-bfe3-b8b0-7f59f3d0ec7d
 ---
@@ -16,7 +19,7 @@ TOPICS
 {{< thopen >}}
 LECTURE SUMMARIES
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 LECTURE NOTES
 {{< thclose >}}
 
