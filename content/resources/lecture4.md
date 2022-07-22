@@ -7,6 +7,7 @@ file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture4.pdf
 uid: c6e52f54-269f-5b94-d022-78940bb13313
 ---
 Lecture notes on molecular mechanisms underlying LTP, how NMDA receptors were implicated in the induction of LTP, and how this idea still holds years later as molecular tools have been added to study the events underlying synaptic plasticity.
-

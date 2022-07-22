@@ -7,6 +7,7 @@ file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture1.pdf
 uid: 37728348-aeed-0196-e74d-49cd24389439
 ---
 Lecture notes on the outline of the course, introduction of participants, cognitive maps, reading and writing scientific papers, and introduction to the study of learning and memory.
-

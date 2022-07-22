@@ -6,6 +6,7 @@ file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture10.pdf
 uid: 00c0cb3d-5136-dedf-37f0-b4731396fd69
 ---
 Lecture notes on synaptic tagging and the mechanics of how long term memories are formed and stored.
-

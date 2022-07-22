@@ -8,6 +8,7 @@ file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Lecture8.pdf
 uid: 728694d7-8c0f-1af3-b5be-1689c2274518
 ---
 Lecture notes on NMDA receptors and place cells, new molecular tools that facilitated the deletion of a molecule necessary for synaptic plasticity from one part of the hippocampal network, and how this affects synaptic plasticity, spatial learning, and place cell formation.
-

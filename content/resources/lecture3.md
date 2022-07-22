@@ -7,6 +7,7 @@ file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture3.pdf
 uid: 82395840-f81d-52e5-a005-7cad1d65259a
 ---
 Lecture notes on synaptic plasticity in rodent hippocampal slices, the basic physiological principals of plasticity in neuronal connections, and memory and the molecular mechanisms underlying it.
-

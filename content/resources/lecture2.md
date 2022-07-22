@@ -7,6 +7,7 @@ file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture2.pdf
 uid: 92c2349a-5903-fbb7-6852-85bb3e753700
 ---
 Lecture notes on scientific reading, writing, learning mechanisms of simple invertebrates, defensive reflexes of invertebrates, and mechanisms underlying learning and memory.
-
