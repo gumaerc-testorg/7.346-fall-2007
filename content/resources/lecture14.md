@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes on 'schemas' of memory, memories of context in space, the
   hippocampus, the cortex, long term storage, and temporal dynamics.
-file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-fall-2007/82e4361055b17512e4a697360fb47adc_Lecture14.pdf
+file: /ol-ocw-studio-app/courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-fall-2007/82e4361055b17512e4a697360fb47adc_Lecture14.pdf
+file_size: 9492
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

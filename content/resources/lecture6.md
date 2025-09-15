@@ -3,7 +3,8 @@ content_type: resource
 description: Lecture notes on the Morris water maze, the role of the hippocampus as
   an important brain structure necessary for performing learning related tasks, understanding
   healthy brains, and screening of rodent disease model systems.
-file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-fall-2007/57d1a37f11ae226c19efd12ea2c13d4e_Lecture6.pdf
+file: /ol-ocw-studio-app/courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-fall-2007/57d1a37f11ae226c19efd12ea2c13d4e_Lecture6.pdf
+file_size: 227091
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

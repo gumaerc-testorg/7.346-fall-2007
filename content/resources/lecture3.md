@@ -3,7 +3,8 @@ content_type: resource
 description: Lecture notes on synaptic plasticity in rodent hippocampal slices, the
   basic physiological principals of plasticity in neuronal connections, and memory
   and the molecular mechanisms underlying it.
-file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-fall-2007/82395840f81d52e5a0057cad1d65259a_Lecture3.pdf
+file: /ol-ocw-studio-app/courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-fall-2007/82395840f81d52e5a0057cad1d65259a_Lecture3.pdf
+file_size: 476430
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

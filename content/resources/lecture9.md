@@ -3,7 +3,8 @@ content_type: resource
 description: Lecture notes on hippocampal representation of space in contextual fear
   conditioning, learning to fear a potentially aversive context, and how hippocampal
   representation relates to contextual fear conditioning.
-file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-fall-2007/896312f514e1b3cd9cf2735480e143b6_Lecture9.pdf
+file: /ol-ocw-studio-app/courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-fall-2007/896312f514e1b3cd9cf2735480e143b6_Lecture9.pdf
+file_size: 311635
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

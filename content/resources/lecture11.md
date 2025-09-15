@@ -4,7 +4,8 @@ description: Lecture notes on the 'grid cells' of the entorhinal cortex, how thi
   input information arriving at the hippocampus contributes to the formation of place
   cells, and how analyzing place fields promotes our understanding of spatial memory
   in aging brains.
-file: /courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-fall-2007/afe659415732567b3b16ba079550d3d7_Lecture11.pdf
+file: /ol-ocw-studio-app/courses/7-346-synaptic-plasticity-and-memory-from-molecules-to-behavior-fall-2007/afe659415732567b3b16ba079550d3d7_Lecture11.pdf
+file_size: 84262
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
